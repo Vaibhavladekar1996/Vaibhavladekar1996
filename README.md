@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vaibhavladekar1996
+- 👋 Hi, I’m @Vaibhavladekar
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javascript,Angular JS
 - 💞️ I’m looking to collaborate on ...
